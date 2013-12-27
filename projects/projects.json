@@ -1354,7 +1354,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1521,12 +1521,12 @@
       ]
     },
     {
-      "name": "LicensingJS", 
-      "thumb": "licensingjs/thumb.png", 
+      "name": "LicensingJS",
+      "thumb": "licensingjs/thumb.png",
       "desc": "Full crud app that tracks Contractor and Business Licenses using Angular, Breeze, toastr and WebApi, deployed on Azure",
-      "url": "http://licensingjs.azurewebsites.net/", 
-      "info": "http://plus.google.com/u/0/102437918402681897261/", 
-      "submitter": "mgbee8", 
+      "url": "http://licensingjs.azurewebsites.net/",
+      "info": "http://plus.google.com/u/0/102437918402681897261/",
+      "submitter": "mgbee8",
       "submissionDate": "2013-03-22",
       "tags": [
         "Demo",
@@ -1546,8 +1546,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1608,6 +1608,23 @@
         "free music",
         "online radio",
         "internet radio"
+      ]
+    },
+    {
+      "name": "today in berlin",  // will be displayed under the screenshot
+      "thumb": "todayinberlin/thumb.png", // path to the image (omit the projects/ prefix)
+      "desc": "A map-based, location-aware events and movie guide for Berlin. Find out what's going on in Berlin today and in the next couple of days.", // One or two sentences
+      "url": "http://www.heuteinberlin.com", // url to your app
+      "submitter": "aikalima", // your github username
+      "submissionDate": "2012-12-26", // current date in ISO format
+      "tags": [
+        "Production",
+        "Google Maps",
+        "Travel Guide",
+        "Directions",
+        "i18n",
+        "Responsive",
+        "Geo Location API",
       ]
     }
   ]
