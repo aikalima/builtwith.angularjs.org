@@ -1611,12 +1611,12 @@
       ]
     },
     {
-      "name": "today in berlin",  // will be displayed under the screenshot
-      "thumb": "todayinberlin/thumb.png", // path to the image (omit the projects/ prefix)
-      "desc": "A map-based, location-aware events and movie guide for Berlin. Find out what's going on in Berlin today and in the next couple of days.", // One or two sentences
-      "url": "http://www.heuteinberlin.com", // url to your app
-      "submitter": "aikalima", // your github username
-      "submissionDate": "2012-12-26", // current date in ISO format
+      "name": "today in berlin",
+      "thumb": "todayinberlin/thumb.png",
+      "desc": "A map-based, location-aware events and movie guide for Berlin. Find out what's going on in Berlin today and in the next couple of days.",
+      "url": "http://www.heuteinberlin.com",
+      "submitter": "aikalima",
+      "submissionDate": "2012-12-26",
       "tags": [
         "Production",
         "Google Maps",
